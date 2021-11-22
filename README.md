@@ -1,3 +1,4 @@
+## Project Link: http://connecthedots.herokuapp.com/
 ## High-level Description:
 
 'Connect the Dots' is intended for everyone, especially people with the needs for human communication and understanding, social interactions, self-expression, and sharing of thoughts. Users can not only talk to themselves through writing and managing diaries in the form of text, audios, pictures and videos on our app, but also can share their thoughts/ mood with anonymous strangers and construct friendly social interactions through our message tab. It does offer three alternatives to connect with people: Drift bottle allow users to connect with random strangers in an offline way surprisingly, while our random chat room provide users with real time communication; Tree hole gives users a place to pour out their moods without any concerns and can expect to receive the warm response from others.
